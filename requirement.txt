@@ -1,0 +1,7 @@
+LangChain
+streamlit
+langchain-google-genai 
+google-generativeai
+python-dotenv
+certifi
+numpy
